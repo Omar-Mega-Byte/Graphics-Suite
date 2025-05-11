@@ -1,0 +1,28 @@
+C:\Users\d_tol\Desktop\L.3 - second term\Graphics\Packages\GraphicsApp\obj\Debug\net8.0-windows\GraphicsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d_tol\Desktop\L.3 - second term\Graphics\Packages\GraphicsApp\obj\Debug\net8.0-windows\GraphicsApp.AssemblyInfoInputs.cache
+C:\Users\d_tol\Desktop\L.3 - second term\Graphics\Packages\GraphicsApp\obj\Debug\net8.0-windows\GraphicsApp.AssemblyInfo.cs
+C:\Users\d_tol\Desktop\L.3 - second term\Graphics\Packages\GraphicsApp\obj\Debug\net8.0-windows\GraphicsApp.csproj.CoreCompileInputs.cache
+C:\Users\d_tol\Desktop\L.3 - second term\Graphics\Packages\GraphicsApp\bin\Debug\net8.0-windows\GraphicsApp.exe
+C:\Users\d_tol\Desktop\L.3 - second term\Graphics\Packages\GraphicsApp\bin\Debug\net8.0-windows\GraphicsApp.deps.json
+C:\Users\d_tol\Desktop\L.3 - second term\Graphics\Packages\GraphicsApp\bin\Debug\net8.0-windows\GraphicsApp.runtimeconfig.json
+C:\Users\d_tol\Desktop\L.3 - second term\Graphics\Packages\GraphicsApp\bin\Debug\net8.0-windows\GraphicsApp.dll
+C:\Users\d_tol\Desktop\L.3 - second term\Graphics\Packages\GraphicsApp\bin\Debug\net8.0-windows\GraphicsApp.pdb
+C:\Users\d_tol\Desktop\L.3 - second term\Graphics\Packages\GraphicsApp\obj\Debug\net8.0-windows\GraphicsApp.dll
+C:\Users\d_tol\Desktop\L.3 - second term\Graphics\Packages\GraphicsApp\obj\Debug\net8.0-windows\refint\GraphicsApp.dll
+C:\Users\d_tol\Desktop\L.3 - second term\Graphics\Packages\GraphicsApp\obj\Debug\net8.0-windows\GraphicsApp.pdb
+C:\Users\d_tol\Desktop\L.3 - second term\Graphics\Packages\GraphicsApp\obj\Debug\net8.0-windows\GraphicsApp.genruntimeconfig.cache
+C:\Users\d_tol\Desktop\L.3 - second term\Graphics\Packages\GraphicsApp\obj\Debug\net8.0-windows\ref\GraphicsApp.dll
+C:\Users\d_tol\Desktop\L.3 - second term\Graphics\Packages FINAL FINAL\GraphicsApp\bin\Debug\net8.0-windows\GraphicsApp.exe
+C:\Users\d_tol\Desktop\L.3 - second term\Graphics\Packages FINAL FINAL\GraphicsApp\bin\Debug\net8.0-windows\GraphicsApp.deps.json
+C:\Users\d_tol\Desktop\L.3 - second term\Graphics\Packages FINAL FINAL\GraphicsApp\bin\Debug\net8.0-windows\GraphicsApp.runtimeconfig.json
+C:\Users\d_tol\Desktop\L.3 - second term\Graphics\Packages FINAL FINAL\GraphicsApp\bin\Debug\net8.0-windows\GraphicsApp.dll
+C:\Users\d_tol\Desktop\L.3 - second term\Graphics\Packages FINAL FINAL\GraphicsApp\bin\Debug\net8.0-windows\GraphicsApp.pdb
+C:\Users\d_tol\Desktop\L.3 - second term\Graphics\Packages FINAL FINAL\GraphicsApp\obj\Debug\net8.0-windows\GraphicsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d_tol\Desktop\L.3 - second term\Graphics\Packages FINAL FINAL\GraphicsApp\obj\Debug\net8.0-windows\GraphicsApp.AssemblyInfoInputs.cache
+C:\Users\d_tol\Desktop\L.3 - second term\Graphics\Packages FINAL FINAL\GraphicsApp\obj\Debug\net8.0-windows\GraphicsApp.AssemblyInfo.cs
+C:\Users\d_tol\Desktop\L.3 - second term\Graphics\Packages FINAL FINAL\GraphicsApp\obj\Debug\net8.0-windows\GraphicsApp.csproj.CoreCompileInputs.cache
+C:\Users\d_tol\Desktop\L.3 - second term\Graphics\Packages FINAL FINAL\GraphicsApp\obj\Debug\net8.0-windows\GraphicsApp.dll
+C:\Users\d_tol\Desktop\L.3 - second term\Graphics\Packages FINAL FINAL\GraphicsApp\obj\Debug\net8.0-windows\refint\GraphicsApp.dll
+C:\Users\d_tol\Desktop\L.3 - second term\Graphics\Packages FINAL FINAL\GraphicsApp\obj\Debug\net8.0-windows\GraphicsApp.pdb
+C:\Users\d_tol\Desktop\L.3 - second term\Graphics\Packages FINAL FINAL\GraphicsApp\obj\Debug\net8.0-windows\GraphicsApp.genruntimeconfig.cache
+C:\Users\d_tol\Desktop\L.3 - second term\Graphics\Packages FINAL FINAL\GraphicsApp\obj\Debug\net8.0-windows\ref\GraphicsApp.dll
